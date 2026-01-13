@@ -1,0 +1,35 @@
+# .gitignore for Pragmatic Repository
+
+# Compiled files
+*.exe
+*.out
+*.o
+*.class
+*.pyc
+__pycache__/
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Personal notes (if you want to keep some notes private)
+PRIVATE_NOTES.md
+scratch/
+
+# Build directories
+build/
+dist/
+target/
